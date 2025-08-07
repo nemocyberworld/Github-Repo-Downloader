@@ -27,25 +27,29 @@ It uses the GitHub API and optionally supports authentication via personal acces
 
 ## 📥 Installation
 
-1. Download the script:
+1. **Clone the repository**:
+
    ```bash
-   curl -O https://yourdomain.com/download_github_repos.sh
+   git clone https://github.com/nemocyberworld/Github-Repo-Downloader.git
    ```
 
+2. **Navigate into the project folder**:
 
+   ```bash
+   cd Github-Repo-Downloader
+   ```
 
-2. Make it executable:
+3. **Make the script executable**:
 
    ```bash
    chmod +x download_github_repos.sh
    ```
 
-3. Run it:
+4. **Run the script**:
 
    ```bash
    ./download_github_repos.sh
    ```
-
 ---
 
 ## 📌 Usage
