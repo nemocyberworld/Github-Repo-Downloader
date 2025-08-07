@@ -1,14 +1,12 @@
 #!/bin/bash
 
 function banner() {
-  echo -e "\033[1;32m
-█░█ ▄▀█ █▀▀ █▄▀ ▀█▀ █▀█ █░░ █ █░█ █▀▀   ▄▀█ █▀▀ ▄▀█ █▀▄ █▀▀ █▀▄▀█ █▄█
-█▀█ █▀█ █▄▄ █░█ ░█░ █▄█ █▄▄ █ ▀▄▀ ██▄   █▀█ █▄▄ █▀█ █▄▀ ██▄ █░▀░█ ░█░
-\033[0m"
-  echo -e "\033[1;34mCreated by Hacktolive Academy  •  Visit: https://hacktolive.net\033[0m"
+  echo -e "\033[1;32mGɪᴛʜᴜʙ Rᴇᴘᴏ Dᴏᴡɴʟᴏᴀᴅᴇʀ\033[0m"
+  echo -e "\033[1;34mCreated by Captain Nemo with Hacktolive Academy  •  https://hacktolive.net\033[0m"
   echo -e "\033[0;36mThis script allows you to download all public repositories from any GitHub user.\033[0m"
   echo
 }
+
 
 banner
 
